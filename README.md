@@ -40,7 +40,8 @@ command line: **`git fetch`**
 ```bash
 git rebase branch-name
 
-**git cherry-pick
-**Definition:** `git cherry-pick` is used  to apply specific commits from one branch to another.
+git cherry-pick
+Definition: `git cherry-pick` is used to apply specific commits from one branch to another.
+
 
 command: git cherry-pick <commit-hash>
