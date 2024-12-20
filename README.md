@@ -1,3 +1,6 @@
+
+## OYEWUSI ESTHER (FE)
+
 ## Version Control
 Version control is a system that tracks changes to files over time. It helps developers collaborate, manage code versions, and revert to previous versions if needed. Examples include Git, SVN, and Mercurial.
 
@@ -45,3 +48,6 @@ Definition: `git cherry-pick` is used to apply specific commits from one branch 
 
 
 command: git cherry-pick <commit-hash>
+=======
+# class2
+>>>>>>> fbb2a2b4b0a65638c9abd4451d9b16c78432b101
